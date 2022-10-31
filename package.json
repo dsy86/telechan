@@ -1,5 +1,5 @@
 {
-	"name": "telechan-message-send-bot",
+	"name": "telechanbot",
 	"version": "2.0.0",
 	"description": "功能简单的TG机器人",
 	"main": "api/index.ts",
